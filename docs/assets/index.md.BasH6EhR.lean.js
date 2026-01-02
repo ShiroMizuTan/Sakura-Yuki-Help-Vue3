@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.Cqi9LMMK.js";const _=JSON.parse('{"title":"欢迎来到帮助文档","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function n(s,a,l,d,c,h){return r(),t("div",null,[...a[0]||(a[0]=[o("",8)])])}const u=e(i,[["render",n]]);export{_ as __pageData,u as default};
